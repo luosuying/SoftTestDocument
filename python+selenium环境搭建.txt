@@ -1,0 +1,4 @@
+1、安装jdk1.8
+2、安装python 3.7
+3、安装selenium 
+4、配置python 环境变量
